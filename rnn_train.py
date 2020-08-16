@@ -32,7 +32,7 @@ tf.set_random_seed(0)
 #         You can follow progress in Tensorboard: tensorboard --log-dir=log
 #   Training and experimentation (default):
 #         Keep validation enabled
-#         You can now play with the parameters anf follow the effects in Tensorboard
+#         You can now play with the parameters and follow the effects in Tensorboard
 #         A good choice of parameters ensures that the testing and validation curves stay close
 #         To see the curves drift apart ("overfitting") try to use an insufficient amount of
 #         training data (shakedir = "shakespeare/t*.txt" for example)
